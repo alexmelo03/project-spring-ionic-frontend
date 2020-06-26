@@ -82,7 +82,7 @@ showInsertOk() {
     buttons: [
       {
         text: 'Ok',
-        handler: () => {
+        handler: () => {  
           this.navCtrl.pop();
         }
       }
